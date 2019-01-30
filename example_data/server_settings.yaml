@@ -1,4 +1,4 @@
-listen_address: 127.0.0.1:2416
+listen_address: 0.0.0.0:2416
 secret_key_path: "key.pem"
 commitment_path: test-p256-commitment
 max_tokens: 5
