@@ -6,6 +6,15 @@ Described in the post [https://kobigurk.com/2019/01/05/exploring-privacypass.htm
 
 The *example-data* folder contains example configuration files for both the client and the server, a secret key for the server and a public commitment for the key to be used by the client.
 
+## Building
+
+The code relies on the [Apache Milagro Crypto Library](https://milagro.apache.org/), and is included as a submodule to the repository.
+
+To be able to build and run, as described later, get the submodule:
+```
+git submodule update --init --recursive-
+```
+
 ## Docker
 
 To use docker to build and run the privacypass-rs server, execute the following commands:
