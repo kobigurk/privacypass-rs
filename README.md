@@ -43,6 +43,7 @@ cargo run --bin privacypass-rs-client
 
 The example configuration files are configured for running both the server and client locally.
 
+To make the processes print debug logs, add before each `cargo run` command the environment variable `RUST_LOG=privacypass_rs=debug`.
 
 ## Example public server
 
