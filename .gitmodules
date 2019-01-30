@@ -1,0 +1,3 @@
+[submodule "deps/amcl"]
+	path = deps/amcl
+	url = https://github.com/milagro-crypto/amcl
