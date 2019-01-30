@@ -12,7 +12,7 @@ The code relies on the [Apache Milagro Crypto Library](https://milagro.apache.or
 
 To be able to build and run, as described later, get the submodule:
 ```
-git submodule update --init --recursive-
+git submodule update --init --recursive
 ```
 
 ## Docker

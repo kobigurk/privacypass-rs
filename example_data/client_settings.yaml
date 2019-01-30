@@ -1,5 +1,4 @@
-#server_address: 127.0.0.1:2416
-server_address: privacypass.kobi.one:2416
+server_address: 127.0.0.1:2416
 should_prepend_size: true
 commitment_path: test-p256-commitment
 num_tokens: 5
