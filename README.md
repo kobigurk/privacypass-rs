@@ -8,7 +8,7 @@ The *example-data* folder contains example configuration files for both the clie
 
 ## Building
 
-The code relies on the [Apache Milagro Crypto Library](https://milagro.apache.org/), and is included as a submodule to the repository.
+The code relies on the [Apache Milagro Crypto Library](https://milagro.apache.org/), and is included as a submodule in the repository.
 
 To be able to build and run, as described later, get the submodule:
 ```
